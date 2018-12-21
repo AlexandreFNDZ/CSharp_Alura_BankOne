@@ -1,0 +1,6 @@
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\BankOne\05-Away Bank\bin\Debug\05-Away Bank.exe
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\BankOne\05-Away Bank\bin\Debug\05-Away Bank.pdb
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\BankOne\05-Away Bank\obj\Debug\05-Away Bank.exe
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\BankOne\05-Away Bank\obj\Debug\05-Away Bank.pdb
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\BankOne\05-Away Bank\obj\Debug\BankOne.csprojAssemblyReference.cache
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\BankOne\05-Away Bank\obj\Debug\BankOne.csproj.CoreCompileInputs.cache
